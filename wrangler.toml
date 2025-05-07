@@ -17,3 +17,4 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 UUID = "ede0fe87-6ba9-4504-a666-3d3830f3c1fe"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/elyoudee/Siren/refs/heads/master/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/elyoudee/Siren/refs/heads/master/web/sub.html"
+LINK_PAGE_URL = "https://raw.githubusercontent.com/elyoudee/Siren/refs/heads/master/web/link.html"
